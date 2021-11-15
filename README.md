@@ -13,3 +13,9 @@ v.1.2 [HSL color mode](https://github.com/Ifald/responsive-portfolio-website/com
 - https://www.w3schools.com/colors/colors_hsl.asp
 
 v.1.3 [Font and typography](https://github.com/Ifald/responsive-portfolio-website/commit/190f7ba12113cb24dc66a2d3abf4a8fe7509badf)
+
+v.1.4 [Margenes Bottom](https://github.com/Ifald/responsive-portfolio-website/commit/ca45a807bc5dc6b1fcf3f1127d23a2708c6a0617)
+
+v.1.5 [Font size for large devices](https://github.com/Ifald/responsive-portfolio-website/commit/734b7057373e10e2913b30037e5c6169db27db41)
+
+v.1.6 [BASE](https://github.com/Ifald/responsive-portfolio-website/commit/501cb9c0507defbde9fb6c950f1a702799a55394)
