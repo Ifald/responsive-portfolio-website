@@ -11,3 +11,5 @@ Add CSS+JS
 
 v.1.2 [HSL color mode](https://github.com/Ifald/responsive-portfolio-website/commit/e0986b1b4e6a997abf28e36bdd2fb04b5a2a3e58)
 - https://www.w3schools.com/colors/colors_hsl.asp
+
+v.1.3 [Font and typography]()
