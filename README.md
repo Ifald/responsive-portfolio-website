@@ -19,3 +19,7 @@ v.1.4 [Margenes Bottom](https://github.com/Ifald/responsive-portfolio-website/co
 v.1.5 [Font size for large devices](https://github.com/Ifald/responsive-portfolio-website/commit/734b7057373e10e2913b30037e5c6169db27db41)
 
 v.1.6 [BASE](https://github.com/Ifald/responsive-portfolio-website/commit/501cb9c0507defbde9fb6c950f1a702799a55394)
+
+v.1.7 [REUSABLE CSS CLASSES](https://github.com/Ifald/responsive-portfolio-website/commit/4189a84ee288968cbedd18c47289b753623e8d82)
+
+v.1.8 [LAYOUT] ()
