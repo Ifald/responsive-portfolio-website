@@ -23,3 +23,5 @@ v.1.6 [BASE](https://github.com/Ifald/responsive-portfolio-website/commit/501cb9
 v.1.7 [REUSABLE CSS CLASSES](https://github.com/Ifald/responsive-portfolio-website/commit/4189a84ee288968cbedd18c47289b753623e8d82)
 
 v.1.8 [LAYOUT](https://github.com/Ifald/responsive-portfolio-website/commit/9d32345c10822da0423676a58feb795e4706b36b)
+
+v.2 [HEADER](https://github.com/Ifald/responsive-portfolio-website/commit/31827b94f2cb719a6f66c623d246eb3441bddc33)
