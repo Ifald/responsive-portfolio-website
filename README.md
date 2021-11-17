@@ -28,4 +28,6 @@ v.2 [HEADER](https://github.com/Ifald/responsive-portfolio-website/commit/31827b
 
 v.2.1 [NAV](https://github.com/Ifald/responsive-portfolio-website/commit/7ca71a132282be6aa7aac5f1237e98e570ee4f44)
 
-v.2.2 [MENU]()
+v.2.2 [MENU](https://github.com/Ifald/responsive-portfolio-website/commit/74bc031c3c5ae5a7889eb2852d7f97aeea38a713)
+
+v.2.3 [HOME](https://github.com/Ifald/responsive-portfolio-website/commit/2f5233781e47f39960ae659cbd6483207ee1c858)
