@@ -35,3 +35,5 @@ v.2.3 [HOME](https://github.com/Ifald/responsive-portfolio-website/commit/2f5233
 v.2.4 [BUTTONS](https://github.com/Ifald/responsive-portfolio-website/commit/c6d1d143976eae113606240d365e51d7d0d08918)
 
 v.3 [ABOUT](https://github.com/Ifald/responsive-portfolio-website/commit/e4dac4ba03efb45b44934e3482c0b9e6f8c27a2f)
+
+v.3.1 [SKILLS](https://github.com/Ifald/responsive-portfolio-website/commit/720e3ce6e3fb9b0e25c66296ac4733005a1aede1)
