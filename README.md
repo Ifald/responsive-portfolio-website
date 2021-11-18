@@ -31,3 +31,7 @@ v.2.1 [NAV](https://github.com/Ifald/responsive-portfolio-website/commit/7ca71a1
 v.2.2 [MENU](https://github.com/Ifald/responsive-portfolio-website/commit/74bc031c3c5ae5a7889eb2852d7f97aeea38a713)
 
 v.2.3 [HOME](https://github.com/Ifald/responsive-portfolio-website/commit/2f5233781e47f39960ae659cbd6483207ee1c858)
+
+v.2.4 [BUTTONS](https://github.com/Ifald/responsive-portfolio-website/commit/c6d1d143976eae113606240d365e51d7d0d08918)
+
+v.3 [ABOUT](https://github.com/Ifald/responsive-portfolio-website/commit/e4dac4ba03efb45b44934e3482c0b9e6f8c27a2f)
