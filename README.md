@@ -37,3 +37,7 @@ v.2.4 [BUTTONS](https://github.com/Ifald/responsive-portfolio-website/commit/c6d
 v.3 [ABOUT](https://github.com/Ifald/responsive-portfolio-website/commit/e4dac4ba03efb45b44934e3482c0b9e6f8c27a2f)
 
 v.3.1 [SKILLS](https://github.com/Ifald/responsive-portfolio-website/commit/720e3ce6e3fb9b0e25c66296ac4733005a1aede1)
+
+v.3.2 [QUALIFICATION](https://github.com/Ifald/responsive-portfolio-website/commit/8e489fcf6af884e76adf8bf06de8ab4400d4bd9c)
+
+v.3.3 [SERVICES]()
