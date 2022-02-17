@@ -46,4 +46,6 @@ v.4 [PORTFOLIO](https://github.com/Ifald/responsive-portfolio-website/commit/fca
 
 v.5.1 [PROJECT IN MIND](https://github.com/Ifald/responsive-portfolio-website/commit/28408306db37248318de6925b148a58cb26d5358)
 
-v.5.2 TESTIMONIAL
+v.5.2 [TESTIMONIAL](https://github.com/Ifald/responsive-portfolio-website/commit/fb34ba99238194e1aa4944d19fb61373f30617a6)
+
+v.5.3 CONTACT ME
