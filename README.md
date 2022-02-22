@@ -48,4 +48,6 @@ v.5.1 [PROJECT IN MIND](https://github.com/Ifald/responsive-portfolio-website/co
 
 v.5.2 [TESTIMONIAL](https://github.com/Ifald/responsive-portfolio-website/commit/fb34ba99238194e1aa4944d19fb61373f30617a6)
 
-v.5.3 CONTACT ME
+v.5.3 [CONTACT ME](https://github.com/Ifald/responsive-portfolio-website/commit/ee309d8a28593bc3d6dd230bbfacec687c84c529)
+
+v.6 FOOTER
