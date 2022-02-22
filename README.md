@@ -50,4 +50,6 @@ v.5.2 [TESTIMONIAL](https://github.com/Ifald/responsive-portfolio-website/commit
 
 v.5.3 [CONTACT ME](https://github.com/Ifald/responsive-portfolio-website/commit/ee309d8a28593bc3d6dd230bbfacec687c84c529)
 
-v.6 FOOTER
+v.6 [FOOTER](https://github.com/Ifald/responsive-portfolio-website/commit/23a9b30cbe6f179a29050e61cd08d3f2bfb72b19)
+
+v.7 SCROLL
