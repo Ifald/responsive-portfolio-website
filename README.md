@@ -54,4 +54,6 @@ v.6 [FOOTER](https://github.com/Ifald/responsive-portfolio-website/commit/23a9b3
 
 v.7 [SCROLL](https://github.com/Ifald/responsive-portfolio-website/commit/4ce1233d25c1ecd8d7defb20f815109ee4603ee9)
 
-v.8 Dark&Light Theme
+v.8 [DARK&LIGHT THEME](https://github.com/Ifald/responsive-portfolio-website/commit/022a3f413492579ae422233071b216109d39506f)
+
+v.9 [MEDIA]()
